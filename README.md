@@ -7,6 +7,20 @@ The project leverages ETL processes, data visualization, and cloud publishing to
 
 ---
 
+## 📊 Dashboard Preview
+
+![Collision Analytics Dashboard](images/CollisionAnalyticsDashboard.png) 
+
+---
+
+## 🚀 Key Insights
+- Collisions show **slight decline (~4%) year-over-year**
+- **Weekends (especially Saturday)** have the highest accident rates
+- Certain states act as **collision hotspots**
+- Seasonal trends indicate fluctuations across months
+
+---
+
 ## 📊 Data Source
 - Dataset: Fatality Analysis Reporting System (FARS)
 - Source: https://geodata.bts.gov/datasets/usdot::fatality-analysis-reporting-system-fars-2022-accidents/about  
@@ -83,14 +97,6 @@ The story uses narrative-driven visuals to make the data easy to understand for 
 
 ## 🖼️ Project Architecture
 <img width="767" height="554" alt="Screenshot 2026-04-02 at 4 12 16 PM" src="https://github.com/user-attachments/assets/03d25497-bbbc-47cd-a4c9-efc46555acd2" />
-
----
-
-## 🚀 Key Insights
-- Collisions show **slight decline (~4%) year-over-year**
-- **Weekends (especially Saturday)** have the highest accident rates
-- Certain states act as **collision hotspots**
-- Seasonal trends indicate fluctuations across months
 
 ---
 
